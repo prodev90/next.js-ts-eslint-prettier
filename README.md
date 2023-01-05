@@ -27,7 +27,7 @@ Etc...
 1. Clone Template
 
 ```
-git clone https://github.com/igdev116/next-ts-eslint-prettier.git
+git clone https://github.com/prodev90/next.js-ts-eslint-prettier
 ```
 
 2. Install Packages
