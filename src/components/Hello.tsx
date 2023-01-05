@@ -44,7 +44,7 @@ const Hello = () => {
         <a
           style={{ color: '#F24C4C' }}
           target='_blank'
-          href='https://github.com/igdev116/next-ts-eslint-prettier'
+          href='https://github.com/prodev90/next.js-ts-eslint-prettier'
           rel='noreferrer'
         >
           Github
